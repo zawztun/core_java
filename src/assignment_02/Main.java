@@ -8,6 +8,7 @@ public class Main {
         String[] empName = new String[5];
         double[] salary = new double[5];
 
+
         Scanner sc = new Scanner(System.in);
         System.out.println("Please Type 5 Emp ID number , emp Name and Salary ");
         for(int i = 0; i < 2; i++){
