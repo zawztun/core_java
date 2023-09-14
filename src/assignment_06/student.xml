@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+    <student id="1">
+        <name>Micky</name>
+        <id>001</id>
+        <mark>98</mark>
+        <address>USA NY</address>
+    </student>
+</students>
